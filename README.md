@@ -1,10 +1,5 @@
 ### Hi I'm Nicco
 
-<!--
-**nicco-b/nicco-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a custom e-commerce cms dashboard integrated with stripe
 - 🤔 I’m looking for my first developer Role
 - 🌱 I’m currently learning advanced React patterns, GraphQL, and diving deeper into cloud services like AWS and Google Cloud Platform.
@@ -12,5 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: niccobeats@icloud.com || https://www.linkedin.com/in/niccolobufalino/
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/niccolobufalino/) | [Email](mailto:niccobeats@icloud.com)
 - ⚡ Fun fact: When I'm not coding, you can find me drawing, making beats, or exploring flavors in the kitchen.
-
--->
